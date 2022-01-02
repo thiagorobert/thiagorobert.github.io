@@ -1,0 +1,55 @@
+# 2021-12-30
+
+Tl;Dr: I'm Thiago, I decied to write every day in 2022, so I'm creating
+a blog about things I care about: Software, Space, Skiing, Archery,
+and my family. Should be fun!
+
+## Why?
+
+Why not? But if I had to rationalize it, I would pick:
+
+*   I'm an aspiring author, I need to develop some routine around writing.
+*   I'm doing some research on Satellite tracking and other space-related
+software as preperation for a new gig at a startup, so I'll have content (and need notes).
+*   Someone my actually learn something from this - I picture my daughter reading
+thorugh it one day and learning something useful, and more about myself.
+*   Maybe it will be a good resource for folks with a similar background
+joining the startup in the future.
+*   I sort of feel I don't have a voice/presence on the internet these days,
+since I don't use social media - so this will be my voice!
+*   I also want to publish some of the code I have laying around in my workspace, and
+this will hopefully motivate me to actually do it.
+
+## What?
+
+Expect some rambling, and link to code.
+
+## Who?
+
+I have a blurb I had to write about myself a while back, for a work event.
+So let's go with that: 
+
+My full name is Thiago Robert Claudino dos Santos. I immigrated from Brazil to
+the Bay Area in 2005. I’ve worked as a software engineer at Google for over 1/3
+of my life, and also did time with Twitter (via Periscope’s acquisition) and
+Motorola ([resume](http://thiago.pub)).
+
+My hobbies include [archery](https://photos.app.goo.gl/z6zQR6pPCAELpb9j6),
+[skiing/snowboarding](http://www.youtube.com/watch?v=Ej7MHb8tXik&t=1m6s),
+[traveling](https://www.google.com/maps/d/u/0/edit?mid=1NxYyDCK16PnSmAS9fKU91MbjUFA&usp=sharing),
+and [photography](https://unsplash.com/@thiagorobert).
+Fun fact, one of my life goals is to visit as many different countries as my
+current age (I’m currently at 34 for 40, a lot of catching up to do).
+
+
+# When?
+
+Starting today, all through 2022, once a day! And hopefully this will be something
+I would want to continue into the future.
+
+# Where?
+
+I'll probably host it on github pages (also considering medium).
+The code will be at <https://github.com/thiagorobert> and I'll link
+deployed applications out of <http://thiago.pub> (currently points to my resume).
+
