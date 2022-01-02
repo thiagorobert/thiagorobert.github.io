@@ -1,20 +1,16 @@
-# 2021-12-30
-
-Tl;Dr: I'm Thiago, I decied to write every day in 2022, so I'm creating
-a blog about things I care about: Software, Space, Skiing, Archery,
-and my family. Should be fun!
+# A new blog about Software, Space, Skiing, Archery, and more
 
 ## Why?
 
 Why not? But if I had to rationalize it, I would pick:
 
-*   I'm an aspiring author, I need to develop some routine around writing.
+*   I'm an aspiring author, I need to develop some routine around writing every day.
 *   I'm doing some research on Satellite tracking and other space-related
-software as preperation for a new gig at a startup, so I'll have content (and need notes).
-*   Someone my actually learn something from this - I picture my daughter reading
-thorugh it one day and learning something useful, and more about myself.
-*   Maybe it will be a good resource for folks with a similar background
-joining the startup in the future.
+software as preperation for a new gig at a startup, so I'll have content (and need to take notes).
+*   Someone might actually learn something useful from it - I picture my daughter reading
+thorugh it one day and learning more about me.
+*   It might be a good resource for folks with a background similar to mine
+joining the Space Industry.
 *   I sort of feel I don't have a voice/presence on the internet these days,
 since I don't use social media - so this will be my voice!
 *   I also want to publish some of the code I have laying around in my workspace, and
@@ -22,7 +18,7 @@ this will hopefully motivate me to actually do it.
 
 ## What?
 
-Expect some rambling, and link to code.
+Expect some rambling, and links to code.
 
 ## Who?
 
