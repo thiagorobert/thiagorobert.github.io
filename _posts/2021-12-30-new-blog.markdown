@@ -1,6 +1,6 @@
-# A new blog about Software, Space, Skiing, Archery, and more
+## A new blog about Software, Space, Skiing, Archery, and more
 
-## Why?
+### Why?
 
 Why not? But if I had to rationalize it, I would pick:
 
@@ -16,11 +16,11 @@ since I don't use social media - so this will be my voice!
 *   I also want to publish some of the code I have laying around in my workspace, and
 this will hopefully motivate me to actually do it.
 
-## What?
+### What?
 
 Expect some rambling, and links to code.
 
-## Who?
+### Who?
 
 I have a blurb I had to write about myself a while back, for a work event.
 So let's go with that: 
@@ -38,12 +38,12 @@ Fun fact, one of my life goals is to visit as many different countries as my
 current age (I’m currently at 34 for 40, a lot of catching up to do).
 
 
-# When?
+### When?
 
 Starting today, all through 2022, once a day! And hopefully this will be something
 I would want to continue into the future.
 
-# Where?
+### Where?
 
 I'll probably host it on github pages (also considering medium).
 The code will be at <https://github.com/thiagorobert> and I'll link

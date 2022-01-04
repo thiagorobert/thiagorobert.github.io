@@ -1,4 +1,4 @@
-# [Code drop](https://github.com/thiagorobert/interviewprep)! My solutions to interview questions from Cracking the Coding Interview. 
+## Solutions to questions from Cracking the Coding Interview 
 
 I purchased [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 (Fifth Edition) a while back. I had

@@ -1,4 +1,4 @@
-# I just deployed this blog using GitHub Pages and Jekyll.
+## I just deployed this blog using GitHub Pages and Jekyll
 
 It works! It was actually pretty smooth. Even using a custom domain was
 relatively straightforward, I have it deployed at [blog.thiago.pub](http://blog.thiago.pub).
