@@ -1,4 +1,4 @@
-## gRPC and REST
+## gRPC server with REST interface
 
 As I way to brush up on modern Web API technologies, I took a stab at
 setting up a Python gRPC server with a Go proxy providing a REST API. These
