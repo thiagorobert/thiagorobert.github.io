@@ -3,8 +3,8 @@
 [Fargate](https://aws.amazon.com/fargate/) is a relatively easy option to
 deploy/run containers in AWS. The buzzword here is
 [Serverless](https://en.wikipedia.org/wiki/Serverless_computing): you worry
-about your application/service, and leave the infrastructure details to the
-provider. [Lambda](https://aws.amazon.com/lambda/) is the other
+about your application and leave the infrastructure details to the
+cloud services provider. [Lambda](https://aws.amazon.com/lambda/) is the other
 serverless computing option AWS provides.
 
 Side note: I actually worked on GCP Serverless from '17 to '19. The counterparts
@@ -13,35 +13,36 @@ to Fargate and Lambda in GCP are [Cloud Run](https://cloud.google.com/run) and
 
 I just deployed the [gRPC example](https://github.com/thiagorobert/grpc-example)
 we've been discussing using Fargate, and you can now access the REST API via
-the Application Load Balancer URL (see example below).
-
+the Application Load Balancer URL:
 
 ```
-> curl -X POST api-thiago-pub-lb-181830448.us-east-1.elb.amazonaws.com/v1/response -d '{"message": "greetings"}'
+> curl -X POST \
+    api-thiago-pub-lb-181830448.us-east-1.elb.amazonaws.com/v1/response \
+    -d '{"message": "greetings"}'
 
 {"message":"Hello I am up and running received \"greetings\" message from you","received":true}
 ```
 
-The next step in this journey is to create a new record for my domain `thiago.pub`
+The next step in this journey is to create a new record for domain `thiago.pub`
 so we can access the REST API via `api.thiago.pub`. Something else I might attempt
 is making the gRPC interface publicly available. That will be a new learning
 experience, and you can bet I'll be sharing it here.
 
 ### Deploy/run [gRPC example](https://github.com/thiagorobert/grpc-example) using Fargate
 
-1 Upload your image to Elastic Container Registry (ECR)
+1 Upload your image to Elastic Container Registry (ECR).
 
 <p align="center"> 
   <img src="/images/ECR-api.thiago.pub-screenshot.png" title="ECR" width="" />
 </p>
 
-2 Create a EC2 Security Group with the appropriate inbound rules
+2 Create a EC2 Security Group with the appropriate inbound rules.
 
 <p align="center"> 
   <img src="/images/api_thiago_pub-sg-screenshot.png" title="Security Group" width="" />
 </p>
 
-3 Create a EC2 Target Group for the REST proxy (port `8081`)
+3 Create a EC2 Target Group for the REST proxy (port `8081`).
 
 <p align="center"> 
   <img src="/images/api_thiago_pub-tg1.png" title="Target Group" width="" />
@@ -50,14 +51,15 @@ experience, and you can bet I'll be sharing it here.
 4  Note you have to specify how the Target Group will perform Health checks;
 I simply configured it to accept a `404` as a valid response for the check (hacky),
 instead of implementing a [Health check handler](https://grpc-ecosystem.github.io/grpc-gateway/docs/operations/health_check/)
-for the REST proxy
+for the REST proxy.
 
 <p align="center"> 
   <img src="/images/api_thiago_pub-tg2.png" title="Target Group health check configuration" width="" />
 </p>
 
+<a id="load-balancer" />
 5 Create a Internet-facing Application Load Balancer using the Security Group
-and Target Group created above
+and Target Group created above.
 
 <p align="center"> 
   <img src="/images/api_thiago_pub-lb1.png" title="Application Load Balancer" width="" />
@@ -68,18 +70,18 @@ and Target Group created above
 </p>
 
 6 Create a Elastic Container Service (ECS) cluster (no image for this step
-since I re-used a cluster created for a different project)
+since I re-used a cluster created for a different project).
 
 7 Create a ECS Task Definition using the image you uploaded in 1; this is were
 you define the appropriate Port Mappings to ensure the relevant services within
-the running container are accessible
+the running container are accessible.
 
 <p align="center"> 
   <img src="/images/ECS-api_thiago_pub-task-screenshot.png" title="Task definition" width="" />
 </p>
 
 8 Create the new service within the cluster, using the Security Group and Target Group
-created above
+created above.
 
 <p align="center"> 
   <img src="/images/cluster-service-view-screenshot.png" title="Service" width="" />
