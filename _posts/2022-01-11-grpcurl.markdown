@@ -1,0 +1,61 @@
+## `grpcurl` and gRPC Reflection
+
+I *just* found out about [`grpcurl`](https://github.com/fullstorydev/grpcurl)
+and I'm already in love. As the README says, it's basically `curl` for gRPC
+servers. Here's how to use it to invoke the gRPC service in our
+[example code](https://github.com/thiagorobert/grpc-example):
+
+```
+> grpcurl \
+    --plaintext \
+    -d '{"message": "greetings grpcurl"}' \
+    localhost:8080 \
+    grpc_example_proto.Unary/GetServerResponse
+     
+{
+  "message": "Hello I am up and running received \"greetings grpcurl\" message from you",                                                                                    
+  "received": true
+}
+
+```
+
+In the example, method `grpc_example_proto.Unary/GetServerResponse` in server
+running at `localhost:8080` is invoked with `'{"message": "greetings grpcurl"}'`.
+Flag `plaintext` is required to use plain-text HTTP/2 when connecting to server,
+instead of TLS.
+
+If the server supports [gRPC Reflection](https://grpc.github.io/grpc/python/grpc_reflection.html),
+you can use `list` to list all exposed services or methods of a particular service:
+
+```
+> grpcurl --plaintext localhost:8080 list
+
+grpc.reflection.v1alpha.ServerReflection
+grpc_example_proto.Unary
+
+> grpcurl --plaintext localhost:8080 list grpc_example_proto.Unary
+
+grpc_example_proto.Unary.GetServerResponse
+
+```
+
+You can also use `describe` to learn more about exposed services:
+
+```
+> grpcurl --plaintext localhost:8080 describe
+
+grpc.reflection.v1alpha.ServerReflection is a service:
+service ServerReflection {
+  rpc ServerReflectionInfo ( stream .grpc.reflection.v1alpha.ServerReflectionRequest ) returns ( stream .grpc.reflection.v1alpha.ServerReflectionResponse );
+}
+grpc_example_proto.Unary is a service:
+service Unary {
+  rpc GetServerResponse ( .grpc_example_proto.Message ) returns ( .grpc_example_proto.MessageResponse ) {
+    option (.google.api.http) = { post:"/v1/response" body:"*"  };
+  }
+}
+```
+
+I just committed a change to enable gRPC Reflection in our example code:
+[`f5c842e`](https://github.com/thiagorobert/grpc-example/commit/f5c842e7e8a4c964bd23d62f0763085605ed7e69)
+([docs](https://github.com/grpc/grpc/blob/master/doc/python/server_reflection.md)).

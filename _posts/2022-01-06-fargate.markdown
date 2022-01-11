@@ -80,7 +80,7 @@ the running container are accessible.
   <img src="/images/ECS-api_thiago_pub-task-screenshot.png" title="Task definition" width="" />
 </p>
 
-8 Create the new service within the cluster, using the Security Group and Target Group
+8 Create the new service within the cluster, using the Security Group, Task Definition and Target Group
 created above.
 
 <p align="center"> 
