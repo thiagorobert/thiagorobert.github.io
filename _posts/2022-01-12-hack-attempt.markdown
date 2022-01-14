@@ -1,7 +1,7 @@
 ## Bash history of a hack attempt in one of my Fargate services
 
 Yesterday I checked the bash history for an open [web terminal](http://github.com/yudai/gotty)
-I left behind in of of the Fargate services I set up, and noticed a hack attempt.
+I left behind in one of the Fargate services I set up, and noticed a hack attempt.
 Below you'll find the set of commands the attacker used. Typos and the constant
 use of `clear` makes me think this isn't a pro, but it's still interseting to
 see what he/she attempted.
@@ -132,5 +132,5 @@ restarted the service to get back to a healthy/safe state.
 FWIW, I know that leaving an open web terminal isn't safe. This is not the first
 time I got an intruder there, but the previous one just poked around and didn't
 attempt anything nefarious. Anyway, YOLO - these web terminals are pretty
-convinient. And since there's very little an attacker can do in the running
+convenient. And since there's very little an attacker can do in the running
 container, I feel the risk is manageable.
