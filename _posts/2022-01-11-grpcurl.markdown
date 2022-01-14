@@ -19,7 +19,7 @@ servers. Here's how to use it to invoke the gRPC service in our
 
 ```
 
-In the example, method `grpc_example_proto.Unary/GetServerResponse` in server
+In command above, method `grpc_example_proto.Unary/GetServerResponse` in server
 running at `localhost:8080` is invoked with `'{"message": "greetings grpcurl"}'`.
 Flag `plaintext` is required to use plain-text HTTP/2 when connecting to server,
 instead of TLS.
