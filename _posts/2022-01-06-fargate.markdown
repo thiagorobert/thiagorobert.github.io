@@ -48,6 +48,7 @@ experience, and you can bet I'll be sharing it here.
   <img src="/images/api_thiago_pub-tg1.png" title="Target Group" width="" />
 </p>
 
+<a id="target-group" />
 4  Note you have to specify how the Target Group will perform Health checks;
 I simply configured it to accept a `404` as a valid response for the check (hacky),
 instead of implementing a [Health check handler](https://grpc-ecosystem.github.io/grpc-gateway/docs/operations/health_check/)
