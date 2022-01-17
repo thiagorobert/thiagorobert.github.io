@@ -29,6 +29,7 @@ is managed via Route 53.
   <img src="/images/api_thiago_pub-certificate-validation.png" title="" width="" />
 </p>
 
+<a id="target-group" />
 After that is done, you'll need a new Target Group using Protocol Version gRPC.
 Note that, [again](/2022/01/06/fargate.html#target-group), I hacked the Target
 Group health checking, configuring it to accept any gRPC
