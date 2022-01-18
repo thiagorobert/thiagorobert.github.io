@@ -1,0 +1,19 @@
+TLE(
+	name='ISS (ZARYA)',
+	norad='25544',
+	classification='U',
+	int_desig='98067A',
+	epoch_year=1998,
+	epoch_day=324.28472222,
+	dn_o2=-3.657e-05,
+	ddn_o6=1.1563e-05,
+	bstar=0.0,
+	set_num=999,
+	inc=51.5908,
+	raan=168.3788,
+	ecc=0.0125362,
+	argp=86.4185,
+	M=359.7454,
+	n=16.05064833,
+	rev_num=0
+)
