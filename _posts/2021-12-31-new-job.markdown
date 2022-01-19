@@ -7,15 +7,15 @@ leaving Twitter, but it wasn't the right place or the right time.
 
 Now, it's happening! [LeoLabs](https://www.leolabs.space/) has created a network of radars to monitor
 Low Earth Orbit (LEO) and provides its customers with data they can use
-to manuver their satellites and avoid collisions in orbit.
+to maneuver their satellites and avoid collisions in orbit.
 
-I first learned about LeoLabs on Nov 4th, 2021. There was a blurb on my dialy
+I first learned about LeoLabs on Nov 4th, 2021. There was a blurb on my daily
 newsletter that caught my eye:
 
 "Space sure is crowded: Check out this [visualization](https://platform.leolabs.space/visualization)
 of all the debris, satellites, and other objects floating in low-Earth orbit."
 
-I explored the visulization, the company's website and offerings, and their jobs
+I explored the visualization, the company's website and offerings, and their jobs
 page. I saw a position open for remote Senior Software Engineer, to work on their APIs.
 I got excited, immediately updated my resume, and applied that same day. I also started
 practicing for the interview process.

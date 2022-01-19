@@ -1,6 +1,6 @@
 ## LeoLabs, CelesTrak, SpaceTrack, and AstriaGraph
 
-As I mentioned before, I was immediatelly hooked once I saw LeoLabs'
+As I mentioned before, I was immediately hooked once I saw LeoLabs'
 visualization of objects in Low Earth Orbit (e.g., SpaceX's
 [Starlink](https://platform.leolabs.space/visualizations/leo#search=starlink;view=lastTracked) constellation,
 the [ISS](https://platform.leolabs.space/visualizations/leo#search=zarya;view=lastTracked),
@@ -19,7 +19,7 @@ is a really good resource, I've been studying that code in the last few weeks.
 </p>
 
 The satellite data used by Stellarium's satellite plugin is from [CelesTrak](http://celestrak.com),
-the OG of satellite tracking, lead by [T.S. Kelso](https://twitter.com/TSKelso).
+the OG of satellite tracking, led by [T.S. Kelso](https://twitter.com/TSKelso).
 The site has been up and running as CelesTrack [since March 1998](https://celestrak.com/brief-history.php)
 and provides current and historical "two-line element set" ([TLE](https://celestrak.com/NORAD/elements/))
 data for most satellites in the Satellite Catalog ([SATCAT](https://celestrak.com/satcat/search.php)).
@@ -52,10 +52,10 @@ LeoLabs is a private company (Series B startup with less than 90 employees at th
 that created a global [Phased-Array Radar](https://www.leolabs.space/radars/)
 network capable of tracking the ~18,000 objects in Low Earth Orbit that are 
 10cm or bigger. These include the ISS, active and defunct satellites, and debris like
-spent rocket bodies and shrapnel created by Anti-Setellite Tests ([ASAT](https://www.armscontrol.org/act/2021-12/news/russian-asat-test-creates-massive-debris)).
+spent rocket bodies and shrapnel created by Anti-Satellite Tests ([ASAT](https://www.armscontrol.org/act/2021-12/news/russian-asat-test-creates-massive-debris)).
 LeoLabs provides customers with an API that can be used to access their data,
 and services like [Collision Avoidance](https://www.leolabs.space/collision-avoidance/),
-which satellite operators can use to manuever their fleet out of harms way.
+which satellite operators can use to maneuver their fleet out of harm's way.
 LeoLab's newer radars are sensitive enough to identify LEO objects as small as 2cm.
 Data collected by their radars is available via their API in roughly 6 minutes
 ([metrics](https://platform.leolabs.space/system_metrics)).

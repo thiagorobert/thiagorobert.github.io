@@ -7,7 +7,7 @@ At this point, my understanding of TLE is that it's an old-fashioned data format
 created in the 70s, which the Space Industry is stuck with. From
 [Wikipedia](https://en.wikipedia.org/wiki/Two-line_element_set): *"The TLE format is a de facto standard for distribution of an Earth-orbiting object's orbital elements".*
 
-SpaceTrack provides an API that let's you query the TLE of most non-classified
+SpaceTrack provides an API that lets you query the TLE of most non-classified
 space objects. It even provides an easy-to-use Query Builder tool!
 
 <img src="/images/spacetrack-querybuilder.png" />
