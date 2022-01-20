@@ -1,0 +1,25 @@
+## First version of my Space-related API
+
+The Space-related API I [alluded to before](/2022/01/17/two-line-element-set.html#api)
+is now implemented and deployed via Fargate! It's basically a wrapper around
+`TLE-tools` that provides two methods:
+
+*   **Decode**: this is the functionality [discussed before](/2022/01/17/two-line-element-set.html);
+it returns the string representation of class [`tletools.TLE`](https://github.com/FedericoStra/tletools/blob/21e8ce496daa3c32e2b9797aab86aa2eb7479db1/tletools/tle.py#L73)
+for the input TLE.
+
+*   **ToOrbit**: I learned about this functionality by reading the implementation
+of `tletools` (and realizing there's a lot more to research); it returns the string representation of class
+[`poliastro.twobody.orbit.Orbit`](https://github.com/poliastro/poliastro/blob/0834887904e27fefd2aa6a957ab27c837e589bdd/src/poliastro/twobody/orbit.py#L54)
+for the input TLE. Example output:
+
+```
+6555 x 6722 km x 51.6 deg (GCRS) orbit around Earth (♁) at epoch 1998-11-20T06:49:59.999808000 (UTC)
+```
+
+This is the `proto` definition for the API:
+
+<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fthiagorobert%2Fspace-api%2Fblob%2Fmain%2Fproto%2Funary.proto&style=github&showLineNumbers=on"></script>
+
+Check out [this script](https://github.com/thiagorobert/space-api/blob/main/scripts/prodsanity.sh)
+for examples of how to invoke the API via gRPC and REST.
