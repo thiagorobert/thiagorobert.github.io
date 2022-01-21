@@ -4,10 +4,12 @@ The Space-related API I [alluded to before](/2022/01/17/two-line-element-set.htm
 is now implemented and deployed via Fargate! It's basically a wrapper around
 `TLE-tools` that provides two methods:
 
+<a id="api" />
 *   **Decode**: this is the functionality [discussed before](/2022/01/17/two-line-element-set.html);
 it returns the string representation of class [`tletools.TLE`](https://github.com/FedericoStra/tletools/blob/21e8ce496daa3c32e2b9797aab86aa2eb7479db1/tletools/tle.py#L73)
 for the input TLE.
 
+<a id="to-orbit" />
 *   **ToOrbit**: I learned about this functionality by reading the implementation
 of `tletools` (and realizing there's a lot more to research); it returns the string representation of class
 [`poliastro.twobody.orbit.Orbit`](https://github.com/poliastro/poliastro/blob/0834887904e27fefd2aa6a957ab27c837e589bdd/src/poliastro/twobody/orbit.py#L54)
