@@ -1,0 +1,42 @@
+## Automatically generating OpenApi specification and Javascript client 
+
+I first heard of OpenApi from a co-worker at Periscope in 2016. I was hosting an
+intern, and his project was to create a CLI to make it easy for the dev team to
+interact with Periscope's REST API. A stretch goal was to automatically generate
+API documentation.
+
+One of the engineers in the Android team posed the question: why not use Swagger?
+I took a quick look at Swagger (which eventually became [OpenApi](https://en.wikipedia.org/wiki/OpenAPI_Specification))
+and it seemed like a good idea to adopt it, but we never did.
+
+When I started thinking about [`space-api`](/2022/01/19/space-api.html), I gave
+myself the mission to learn and use OpenApi. It's definitely more work upfront,
+but it should pay off since it would make it trivial to automatically generate
+API clients, stubs for testing, and documentation.
+
+This is how I got started. Using `protoc` version `libprotoc 3.6.1` I generated the OpenApi specification
+for the service, based on the [proto](https://github.com/thiagorobert/space-api/blob/main/proto/unary.proto)
+file.
+```
+protoc proto/unary.proto -I. --openapi_out=proto/
+```
+
+You can see what the automatically generated spec looks like below.
+
+<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fthiagorobert%2Fspace-api%2Fblob%2Fmain%2Fproto%2Fopenapi.yaml&style=github&showLineNumbers=on"></script>
+
+[OpenApi Generator](https://openapi-generator.tech/) is one of the key tools in
+the OpenApi ecosystem. Using `openapi-generator-cli` version `5.3.1` and the
+command line below, I created a javascript client for `space-api`, which can
+easily be imported via `npm`.
+
+```
+openapi-generator-cli generate -i openapi.yaml -g javascript -o .
+```
+
+The
+generated code is available at <https://github.com/thiagorobert/space-client-js>).
+
+Next steps on this are to publish this package to the `npm` registry 
+([instructions](https://docs.npmjs.com/packages-and-modules/contributing-packages-to-the-registry))
+and use the package on the UI code I [covered before](/2022/01/21/functional-ui.html).
