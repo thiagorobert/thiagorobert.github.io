@@ -1,6 +1,6 @@
 ## Learning more about TLEs
 
-We [previously](/2022/01/03/stellite-tracking.html) talked about Satellite Tracking
+We [previously](/2022/01/03/satellite-tracking.html) talked about Satellite Tracking
 and mentioned Two-Line Element (TLE) sets.
 
 At this point, my understanding of TLE is that it's an old-fashioned data format

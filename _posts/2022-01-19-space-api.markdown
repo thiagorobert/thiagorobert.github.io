@@ -23,5 +23,5 @@ This is the `proto` definition for the API:
 
 <script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fthiagorobert%2Fspace-api%2Fblob%2Fmain%2Fproto%2Funary.proto&style=github&showLineNumbers=on"></script>
 
-Check out [this script](https://github.com/thiagorobert/space-api/blob/main/scripts/prodsanity.sh)
+Check out [this script](https://github.com/thiagorobert/space-api/blob/main/scripts/sanity.sh)
 for examples of how to invoke the API via gRPC and REST.
