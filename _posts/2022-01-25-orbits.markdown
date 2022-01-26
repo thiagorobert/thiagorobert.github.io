@@ -1,0 +1,63 @@
+## Visualizing different types of orbits
+
+I spent more time improving the [TLE tool I built](api.thiago.pub:8080/), and used
+it to learn more about [Geocentric orbits](https://en.wikipedia.org/wiki/Geocentric_orbit).
+I basically plugged in TLEs from [CelesTrack](https://celestrak.com/) into the
+tool to generate images below. I also found this amazing SVG on Wikipedia, which
+is a good overview. It's clickable, so you can use it to learn more about the
+information depicted.
+
+<p align="center"> 
+  <iframe height="400" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg"></iframe>
+</p>
+
+Most artificial satellites are in [Low Earth orbit](https://en.wikipedia.org/wiki/Low_Earth_orbit),
+including the ISS and Starlink constellation. The altitude of objects in this
+orbit is never more than about one-third of the radius of Earth (roughly 2,000 km).
+
+<p align="center"> 
+  <img src="/images/orbit-starlink.png" title="STARLINK-43" width="" />
+</p>
+
+[Medium Earth orbit](https://en.wikipedia.org/wiki/Medium_Earth_orbit) encompasses
+altitudes between 2,000 km and 35,786 km above sea level. The GPS constellation
+is located in MEO, specifically in [Semi-synchronous](https://en.wikipedia.org/wiki/Semi-synchronous_orbit)
+orbit, at an altitude of roughly 20,000 km.
+
+<p align="center"> 
+  <img src="/images/orbit-gps.png" title="GPS" width="" />
+</p>
+
+Objects in [Geosynchronous orbit](https://en.wikipedia.org/wiki/Geosynchronous_orbit)
+are at an altitude of 35,786 km and their period equals one sidereal day,
+coinciding with Earth's rotation period. 
+
+<p align="center"> 
+  <img src="/images/orbit-directv.png" title="DIRECTV 10" width="" />
+</p>
+
+Satellites in [High Earth orbit](https://en.wikipedia.org/wiki/High_Earth_orbit)
+have an altitude entirely above that of a Geosynchronous orbit. They appear to be
+in retrograde motion, since their orbital period is greater than 24 hours.
+
+<p align="center"> 
+  <img src="/images/orbit-tess.png" title="TESS" width="" />
+</p>
+
+A satellite in [Polar orbit](https://en.wikipedia.org/wiki/Polar_orbit) 
+passes above or nearly above Earth's poles on each revolution.
+
+<p align="center"> 
+  <img src="/images/orbit-fengyun.png" title="FENGYUN 1C" width="" />
+</p>
+
+Satellites in [Molniya orbit](https://en.wikipedia.org/wiki/Molniya_orbit) spend
+most of their time over a designated area of the Earth. Molniya is a highly
+elliptical orbit.
+ 
+<p align="center"> 
+  <img src="/images/orbit-molniya.png" title="Molniya" width="" />
+</p>
+
+There's a lot more details on this, Wikipedia is an amazing resource as usual.
+Links above are a great way to get started.
