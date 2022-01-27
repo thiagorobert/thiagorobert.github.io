@@ -1,0 +1,20 @@
+[
+  {
+    "CDM_ID": "193725858",
+    "CREATED": "2021-12-27 16:30:59.000000",
+    "EMERGENCY_REPORTABLE": "Y",
+    "TCA": "2021-12-29T09:21:53.748000",
+    "MIN_RNG": "1737",
+    "PC": null,
+    "SAT_1_ID": "2639",
+    "SAT_1_NAME": "INTELSAT 2-F2",
+    "SAT1_OBJECT_TYPE": "PAYLOAD",
+    "SAT1_RCS": "LARGE",
+    "SAT_1_EXCL_VOL": "0.00",
+    "SAT_2_ID": "22907",
+    "SAT_2_NAME": "GORIZONT 29",
+    "SAT2_OBJECT_TYPE": "PAYLOAD",
+    "SAT2_RCS": "LARGE",
+    "SAT_2_EXCL_VOL": "0.00"
+  }
+]

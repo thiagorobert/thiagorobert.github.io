@@ -26,7 +26,7 @@ You can see what the automatically generated spec looks like below.
 <script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fthiagorobert%2Fspace-api%2Fblob%2Fmain%2Fproto%2Fopenapi.yaml&style=github&showLineNumbers=on"></script>
 
 [OpenApi Generator](https://openapi-generator.tech/) is one of the key tools in
-the OpenApi ecosystem. Using `openapi-generator-cli` version `5.3.1` and the
+the OpenApi ecosystem. Using `openapi-generator-cli` version `5.3.1` and
 command line below, I created a javascript client for `space-api`, which can
 easily be imported via `npm`.
 
@@ -35,7 +35,7 @@ openapi-generator-cli generate -i openapi.yaml -g javascript -o .
 ```
 
 The
-generated code is available at <https://github.com/thiagorobert/space-client-js>).
+generated code is available at <https://github.com/thiagorobert/space-client-js>.
 
 Next steps on this are to publish this package to the `npm` registry 
 ([instructions](https://docs.npmjs.com/packages-and-modules/contributing-packages-to-the-registry))

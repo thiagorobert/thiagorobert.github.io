@@ -11,7 +11,7 @@ for the input TLE.
 
 <a id="to-orbit" />
 *   **ToOrbit**: I learned about this functionality by reading the implementation
-of `tletools` (and realizing there's a lot more to research); it returns the string representation of class
+of `TLE-tools` (and realizing there's a lot more to research); it returns the string representation of class
 [`poliastro.twobody.orbit.Orbit`](https://github.com/poliastro/poliastro/blob/0834887904e27fefd2aa6a957ab27c837e589bdd/src/poliastro/twobody/orbit.py#L54)
 for the input TLE. Example output:
 

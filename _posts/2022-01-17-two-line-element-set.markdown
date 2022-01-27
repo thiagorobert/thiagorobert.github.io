@@ -10,7 +10,7 @@ created in the 70s, which the Space Industry is stuck with. From
 SpaceTrack provides an API that lets you query the TLE of most non-classified
 space objects. It even provides an easy-to-use Query Builder tool!
 
-<img src="/images/spacetrack-querybuilder.png" />
+<img src="/images/tle-spacetrack-querybuilder.png" />
  
 I just used SpaceTrack's Query Builder to craft
 [this query](https://www.space-track.org/basicspacedata/query/class/tle/NORAD_CAT_ID/25544/orderby/NORAD_CAT_ID%20asc/limit/1/emptyresult/show).
@@ -30,13 +30,13 @@ parse that TLE data.
 <table>
   <tr>
     <th>SpaceTrack json output</th>
-    <th>TLE parsed with TLE-tools</th>
+    <th>TLE parsed with `TLE-tools`</th>
   </tr>
   <tr valign="top">
     <td>
-      <iframe style="background: #f8f8ff;" height="560" width="700" src="/data/spacetrack.output.json"></iframe>
+      <iframe style="background: #f8f8ff;" height="560" width="700" src="/data/tle.spacetrack.output.json"></iframe>
     </td><td>
-      <iframe style="background: #f8f8ff;"  height="310" src="/data/parsed.spacetrack.output.txt"></iframe>
+      <iframe style="background: #f8f8ff;"  height="310" src="/data/tle.parsed.spacetrack.output.txt"></iframe>
     </td>
   </tr>
 </table>
