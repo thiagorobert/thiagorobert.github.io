@@ -2,7 +2,7 @@
 
 One of the reasons for [satellite monitoring](/2022/01/03/satellite-tracking.html) is
 to avoid collisions. Most modern satellites are capable of maneuvering out of harm's
-way as needed, at least until they run out of fuel. All they need is information
+way, at least until they run out of fuel. All they need is information
 about possible threats, which is provided by the [Space Surveillance Network
 (SSN)](https://en.wikipedia.org/wiki/United_States_Space_Surveillance_Network),
 other government-level players, and [LeoLabs](https://www.leolabs.space/collision-avoidance/).
