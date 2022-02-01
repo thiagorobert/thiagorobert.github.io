@@ -1,0 +1,37 @@
+# By thiagorobert@gmail.com
+
+use_debug false
+load_samples ["/home/sienna/Music/bob.flac", :vinyl_scratch]
+
+define :bob_tribute do
+  
+  live_loop :afro do
+    sample "/home/sienna/Music/bob.flac", rate: 0.99, amp: 1, start: 0.408, finish: 0.42
+    in_thread do
+      sleep 2.4
+      sample :vinyl_scratch, rate: rrand(0.8, 0.9), amp: 0.5
+    end
+    
+    sleep 2.5
+  end
+  
+  live_loop :jammin do
+    sleep rrand(3, 10)
+    sample "/home/sienna/Music/bob.flac", rate: rrand(0.9, 1), amp: rrand(0.3, 0.9), start: 0.404, finish: 0.409
+  end
+  
+  live_loop :zion do
+    sleep rrand(10, 30)
+    sample "/home/sienna/Music/bob.flac", rate: 0.98, amp: rrand(0.2, 0.5), start: 0.445, finish: 0.458
+  end
+  
+  live_loop :alright do
+    sleep rrand(20, 100)
+    sample "/home/sienna/Music/bob.flac", rate: 0.99, amp: 1, start: 0.07, finish: 0.085
+  end
+end
+
+sample "/home/sienna/Music/bob.flac", rate: 0.99, amp: 1, start: 0.043, finish: 0.085
+sleep 8.7
+sample :vinyl_scratch, rate: 0.9, amp: 0.3
+bob_tribute

@@ -1,0 +1,11 @@
+## Creating music with code
+
+[Sonic Pi](https://sonic-pi.net/) is a code-based music creation and performance tool. I discovered it randomly, while browsing music-related apps available in Ubuntu Software. It was immediately appealing to me, since it gave me an outlet to be musically creative using skills I'm comfortable with. I probably won't be ditching my software job to become a musician any time soon, but it's really fun to spend time coding a song.
+
+I feel shy about publishing any of the music I created with Sonic Pi. I wouldn't call any of it completed, or good. But here it goes nonetheless. First, there's ["Guitar 'n' Scratch"](/data/guitar-n-scratch.wav), an eerie guitar and vinyl scratch composition.
+
+There's also ["Jammin' with Bob"](/data/jammin-with-bob.wav), which I've been working on since yesterday. Starting from a [FLAC](https://en.wikipedia.org/wiki/FLAC) of Bob Marley's song [Jammin](https://www.youtube.com/watch?v=oFRbZJXjWIA), I created a few samples that are overlaid to create the composition. It's an example of [music indeterminacy](https://en.wikipedia.org/wiki/Indeterminacy_(music)), a type of [process music](https://en.wikipedia.org/wiki/Process_music) where aspects of the composition are left to chance. If you look at the code for the composition, you'll see why: several aspects of the song kick in randomly, and use random amplitude and rate.
+
+<p align="center">
+    <iframe style="background: #f8f8ff;" height="640" width="700" src="/data/jammin-with-bob.txt"></iframe>
+</p>
