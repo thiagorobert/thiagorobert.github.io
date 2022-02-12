@@ -6,7 +6,7 @@ had envisioned for [`api.thiago.pub:8080`](http://api.thiago.pub:8080):
 *    [Orbital Predictor](http://www.orbitalpredictor.com/home/): This is interesting
 since the author seems to have similar goals as mine; he even created a [blog](https://irishspacehacker.blogspot.com/)!
 It relies on [`cesiumjs`](https://cesium.com/platform/cesiumjs/) and let's you visualize orbits and corridors (footprint), add satellites,
-and get overpasses for a location specified via lat/lon or by clicking in the 3d
+and get overpasses for a location specified via lat/lon or by clicking on the 3d
 globe. It seems a few features require creating an account which I didn't attempt.
 
 *    [N2YO](https://www.n2yo.com/): A site created by [Southern Stars](http://southernstars.com),
