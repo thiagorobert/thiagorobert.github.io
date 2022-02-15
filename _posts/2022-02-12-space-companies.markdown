@@ -29,10 +29,11 @@ I'll do my best to keep this list updated as I learn about other companies.
 *    Astra (<https://astra.com/>)
 *    Firefly Aerospace (<https://firefly.com/>)
 
-#### Satellite Internet Provider
+#### Satellite Internet Provider / Space Networking
 
 *    SpaceX (<https://www.spacex.com/>)
 *    OneWeb (<https://oneweb.net/>)
+*    Aquarian Space (<https://www.aquarianspace.com/>)
 
 #### Imaging / Geospatial Analytics
 
@@ -44,6 +45,8 @@ I'll do my best to keep this list updated as I learn about other companies.
 *    GeoSat (<https://geosat.space>)
 *    GHGSat (<https://www.ghgsat.com/en/>)
 *    EUMETSAT (<https://www.eumetsat.int/>)
+*    Black Sky (<https://www.blacksky.com/>)
+*    Ursa Space (<https://ursaspace.com/>)
 
 #### Tourism
 
@@ -70,6 +73,7 @@ I'll do my best to keep this list updated as I learn about other companies.
      *    acquired DigitalGlobe (<https://en.wikipedia.org/wiki/DigitalGlobe>)
 *    Thales Alenia Space (<https://www.thalesgroup.com/en/global/activities/space>)
 *    ST Engineering (<https://www.stengg.com/en/aerospace/>)
+*    Theia Space (<https://www.theia.eusoc.upm.es/>)
 
 #### Software
 
@@ -77,3 +81,9 @@ I'll do my best to keep this list updated as I learn about other companies.
 *    Binary Space (<https://www.binary-space.com/>)
 *    Southern Stars (<http://southernstars.com>) - Orbitrack app, N2YO website
 *    Sumus (<http://www.sumusltd.com/>) - Stl Tracker website and Windows app
+
+#### Jobs
+
+* Rocket Crew (<https://rocketcrew.space/>)
+     *    see their [Space Companies Directory](https://rocketcrew.space/space-companies)
+     for a comprehensive list of companies in the industry
