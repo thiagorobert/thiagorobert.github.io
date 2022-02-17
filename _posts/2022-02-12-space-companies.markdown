@@ -7,6 +7,7 @@ I'll do my best to keep this list updated as I learn about other companies.
 
 *    ESA  (Europe)
 *    NASA (USA)
+*    UKSA (United Kingdom)
 *    JAXA (Japan)
 *    CNSA (China)
 *    ISRO (India)
@@ -74,6 +75,7 @@ I'll do my best to keep this list updated as I learn about other companies.
 *    Thales Alenia Space (<https://www.thalesgroup.com/en/global/activities/space>)
 *    ST Engineering (<https://www.stengg.com/en/aerospace/>)
 *    Theia Space (<https://www.theia.eusoc.upm.es/>)
+*    TransAstra (<https://www.transastracorp.com/>)
 
 #### Software
 

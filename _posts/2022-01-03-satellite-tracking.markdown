@@ -9,6 +9,7 @@ and [debris](https://platform.leolabs.space/visualizations/leo#search=deb;view=l
 I proceeded to research everything I could find about LeoLabs and other
 entities focused on satellite tracking.
 
+<a id="stellarium" />
 One of the first things I tried out was [Stellarium](https://stellarium.org/), an
 Open Source planetarium software I've been playing around with for a while now.
 Their [satellite plugin](https://github.com/Stellarium/stellarium/tree/master/plugins/Satellites)

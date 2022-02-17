@@ -1,0 +1,23 @@
+## Play classics adventure games on your favorite platform
+
+[ScummVM](https://www.scummvm.org/) is a program that makes it easy to play
+classics like [Full Throttle](https://en.wikipedia.org/wiki/Full_Throttle_(1995_video_game))
+and [The Secret of Monkey Island](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)
+on your favorite platform ([list](https://www.scummvm.org/downloads/)). I've been
+meaning to write about it for a while, and since I stayed up way too late
+playing Monkey Island last night, I decided it was time.
+
+ScummVM isn't an emulator. It's a rewrite of engines that power games by
+manufacturers like LucasArts, so game assets (images, videos, sounds, scripts)
+can be reused, allowing these games to be played anywhere ScummVM can run.
+ScummVM's name is derived from the first engine supported,
+[SCUMM](https://en.wikipedia.org/wiki/SCUMM) (which stands for "Script Creation
+Utility for Maniac Mansion").
+
+Note that you can't get the actual games from ScummVM's page, but they are pretty
+easy to find (example: <https://cdromance.com/scummvm/>).
+
+Just like [Sonic Pi](/2022/02/01/sonic-pi.html) and [Stellarium](/2022/01/03/satellite-tracking.html#stellarium),
+ScummVM is an application I learned about while browsing Ubuntu Software. It's
+pretty amazing to me how much learning and entertainment I harnessed from Open
+Source Software I discovered there.
