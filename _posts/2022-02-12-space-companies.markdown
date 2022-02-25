@@ -3,7 +3,7 @@
 This is a non-exhaustive list of players in the Space Industry (companies, agencies, etc).
 I'll do my best to keep this list updated as I learn about other companies.
 
-#### Agencies
+#### Agencies ([full list](https://en.wikipedia.org/wiki/List_of_government_space_agencies))
 
 *    ESA  (Europe)
 *    NASA (USA)
@@ -14,10 +14,12 @@ I'll do my best to keep this list updated as I learn about other companies.
 *    Roscosmos (Russia)
 *    Mauritius (<https://spacemauritius.com/>)
 
-#### Monitoring
+#### Monitoring / Collision Avoidance
 
 *    LeoLabs (<https://www.leolabs.space/>)
 *    Slingshot Aerospace (<https://slingshotaerospace.com/>)
+*    COMSPOC (<https://comspoc.com/>)
+*    Neuraspace (<https://www.neuraspace.com/>)
 
 #### Launches
 
@@ -29,6 +31,7 @@ I'll do my best to keep this list updated as I learn about other companies.
 *    Swedish Space Corporation (<https://sscspace.com/>)
 *    Astra (<https://astra.com/>)
 *    Firefly Aerospace (<https://firefly.com/>)
+*    Spaceflight (<https://spaceflight.com/>)
 
 #### Satellite Internet Provider / Space Networking
 
@@ -83,6 +86,10 @@ I'll do my best to keep this list updated as I learn about other companies.
 *    Binary Space (<https://www.binary-space.com/>)
 *    Southern Stars (<http://southernstars.com>) - Orbitrack app, N2YO website
 *    Sumus (<http://www.sumusltd.com/>) - Stl Tracker website and Windows app
+
+#### Insurance
+
+*    AXA XL (<https://axaxl.com>)
 
 #### Jobs
 
