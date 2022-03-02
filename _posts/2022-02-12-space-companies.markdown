@@ -20,6 +20,7 @@ I'll do my best to keep this list updated as I learn about other companies.
 *    Slingshot Aerospace (<https://slingshotaerospace.com/>)
 *    COMSPOC (<https://comspoc.com/>)
 *    Neuraspace (<https://www.neuraspace.com/>)
+*    Privateer (<https://www.privateer.com/>)
 
 #### Launches
 
@@ -49,7 +50,7 @@ I'll do my best to keep this list updated as I learn about other companies.
 *    GeoSat (<https://geosat.space>)
 *    GHGSat (<https://www.ghgsat.com/en/>)
 *    EUMETSAT (<https://www.eumetsat.int/>)
-*    Black Sky (<https://www.blacksky.com/>)
+*    BlackSky (<https://www.blacksky.com/>)
 *    Ursa Space (<https://ursaspace.com/>)
 
 #### Tourism
