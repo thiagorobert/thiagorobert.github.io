@@ -21,6 +21,7 @@ I'll do my best to keep this list updated as I learn about other companies.
 *    COMSPOC (<https://comspoc.com/>)
 *    Neuraspace (<https://www.neuraspace.com/>)
 *    Privateer (<https://www.privateer.com/>)
+*    NorthStar Earth & Space (<https://northstar-data.com/>)
 
 #### Launches
 
