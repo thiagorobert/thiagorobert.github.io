@@ -6,4 +6,11 @@ That link above lets you see the 30 prompts I used to generate the game, along w
 
 This is the deployed version (in [vercel](https://vercel.com/)): <https://v0-solitaire-game-w1srkj.vercel.app/>
 
+Since I don't expect anyone to actually play the game, here's a screenshot of the victory:
+
+<p align="center">
+  <img src="/images/solitAIre-victory.png" title="WINNER" width="" />
+</p>
+
+
 The best part of all of this is that I learned about these tools from this funny video about a developer trying to use AI: <https://www.youtube.com/shorts/64TNGvCoegE>. These guys are pretty funny (and also informative!), I recommend checking out their videos. I still need to check out [replit](https://replit.com) and [cursor](https://www.cursor.com), the other tools mentioned in the video.
