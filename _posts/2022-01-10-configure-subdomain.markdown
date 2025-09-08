@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Making the REST interface available at api.thiago.pub"
+date: 2022-01-10 12:00:00 -0000
+---
+
 ## Making the REST interface available at `api.thiago.pub`
 
 Onwards!

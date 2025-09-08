@@ -1,3 +1,9 @@
+---
+layout: post
+title: "A new player in the Space Situational Awareness business"
+date: 2022-03-01 12:00:00 -0000
+---
+
 ## A new player in the Space Situational Awareness business
 
 [Privateer](https://www.privateer.com/) just came out of stealth mode today,

@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Running gRPC server and REST proxy with TLS"
+date: 2022-01-13 12:00:00 -0000
+---
+
 ## Running gRPC server and REST proxy with TLS
 
 I just updated our gRPC example code to support TLS. Commit

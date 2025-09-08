@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Automatically generating OpenApi specification and Javascript client"
+date: 2022-01-23 12:00:00 -0000
+---
+
 ## Automatically generating OpenApi specification and Javascript client 
 
 I first heard of OpenApi from a co-worker at Periscope in 2016. I was hosting an

@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Expose the gRPC service at api.thiago.pub:8080"
+date: 2022-01-15 12:00:00 -0000
+---
+
 ## Expose the gRPC service at `api.thiago.pub:8080`
 
 Finally, we are now able to access the gRPC service in our example code via

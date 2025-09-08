@@ -1,3 +1,9 @@
+---
+layout: post
+title: "I accepted an offer from LeoLabs!"
+date: 2021-12-31 12:00:00 -0000
+---
+
 ## I accepted an offer from LeoLabs!
 
 Yup, it just happened. It was a great way to close out 2021. I've been

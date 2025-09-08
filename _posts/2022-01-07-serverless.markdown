@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Presentation about Serverless and GCP"
+date: 2022-01-07 12:00:00 -0000
+---
+
 ## Presentation about Serverless and GCP
 
 Today I'm skiing at [Palisades Tahoe](https://www.palisadestahoe.com/)!

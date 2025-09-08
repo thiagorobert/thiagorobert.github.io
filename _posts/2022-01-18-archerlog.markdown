@@ -1,3 +1,9 @@
+---
+layout: post
+title: "My other side project"
+date: 2022-01-18 12:00:00 -0000
+---
+
 ## My other side project
 
 Today I took the time to clean up and upload code/configs for my other

@@ -1,3 +1,9 @@
+---
+layout: post
+title: "solitAIre - a fully functioning Solitaire game implemented using 30 prompts"
+date: 2025-03-02 12:00:00 -0000
+---
+
 ## solitAIre - a fully functioning Solitaire game implemented using 30 prompts
 
 I made a solitAIre game using [v0.dev](https://v0.dev/). Check it out: <https://v0.dev/chat/solitaire-game-B6BdOCKTGH1?b=b_gGPzRx1dFk4&f=0>

@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Play classics adventure games on your favorite platform"
+date: 2022-02-16 12:00:00 -0000
+---
+
 ## Play classics adventure games on your favorite platform
 
 [ScummVM](https://www.scummvm.org/) is a program that makes it easy to play

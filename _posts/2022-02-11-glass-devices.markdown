@@ -1,3 +1,9 @@
+---
+layout: post
+title: "I found 3 of my Glass devices today"
+date: 2022-02-11 12:00:00 -0000
+---
+
 ## I found 3 of my Glass devices today
 
 I was recently thinking to myself, "I wish I had saved one of the many Glass

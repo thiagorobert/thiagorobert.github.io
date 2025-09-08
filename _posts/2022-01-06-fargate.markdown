@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Deploy gRPC/REST server with Fargate"
+date: 2022-01-06 12:00:00 -0000
+---
+
 ## Deploy gRPC/REST server with Fargate
 
 [Fargate](https://aws.amazon.com/fargate/) is a relatively easy option to

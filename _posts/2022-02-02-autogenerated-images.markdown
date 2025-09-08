@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Creating images with Machine Learning"
+date: 2022-02-02 12:00:00 -0000
+---
+
 ## Creating images with Machine Learning
 
 All that talk about auto-generated music [yesterday](/2022/02/01/sonic-pi.html) reminded me of

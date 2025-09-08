@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Bash history of a hack attempt in one of my Fargate services"
+date: 2022-01-12 12:00:00 -0000
+---
+
 ## Bash history of a hack attempt in one of my Fargate services
 
 Yesterday I checked the bash history for an open [web terminal](http://github.com/yudai/gotty)

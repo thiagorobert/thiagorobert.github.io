@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Watch satellites being deployed to orbit"
+date: 2022-02-24 12:00:00 -0000
+---
+
 ## Watch satellites being deployed to orbit
 
 In this video from mid-November 2021, [SpaceX](https://www.spacex.com/) deploys 53 Starlink satellites.

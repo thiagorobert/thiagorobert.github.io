@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Enabling gRPC health checking"
+date: 2022-01-14 12:00:00 -0000
+---
+
 ## Enabling gRPC health checking
 
 TIL about [gRPC Health Checking Protocol](https://github.com/grpc/grpc/blob/master/doc/health-checking.md),

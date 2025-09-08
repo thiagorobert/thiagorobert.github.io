@@ -1,3 +1,9 @@
+---
+layout: post
+title: "space-client-js is now a public NPM package"
+date: 2022-01-24 12:00:00 -0000
+---
+
 ## `space-client-js` is now a public NPM package
 
 I'm really impressed about how easy it was to [adopt OpenApi](/2022/01/23/openapi.html)

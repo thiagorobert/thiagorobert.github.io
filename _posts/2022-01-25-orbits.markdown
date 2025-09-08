@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Visualizing different types of orbits"
+date: 2022-01-25 12:00:00 -0000
+---
+
 ## Visualizing different types of orbits
 
 I spent more time improving the [TLE tool I built](api.thiago.pub:8080/), and used

@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Learning more about CDMs"
+date: 2022-01-26 12:00:00 -0000
+---
+
 ## Learning more about CDMs
 
 One of the reasons for [satellite monitoring](/2022/01/03/satellite-tracking.html) is

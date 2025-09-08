@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Associating multiple target groups with your Fargate service"
+date: 2022-01-16 12:00:00 -0000
+---
+
 ## Associating multiple target groups with your Fargate service
 
 One small problem with the [Fargate configuration](/2022/01/06/fargate.html)

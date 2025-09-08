@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Input TLE, retrieve Orbit"
+date: 2022-01-21 12:00:00 -0000
+---
+
 ## Input TLE, retrieve Orbit
 
 A basic version of the UI I [had in mind](/2022/01/20/visualizing-orbits.html#ui)

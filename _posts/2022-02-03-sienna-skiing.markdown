@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Teaching my daughter how to ski"
+date: 2022-02-03 12:00:00 -0000
+---
+
 ## Teaching my daughter how to ski
 
 Today I spent a good chunk of my day at Palisades teaching my daughter Sienna how to ski.

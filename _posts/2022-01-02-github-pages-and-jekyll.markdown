@@ -1,3 +1,9 @@
+---
+layout: post
+title: "I just deployed this blog using GitHub Pages and Jekyll"
+date: 2022-01-02 12:00:00 -0000
+---
+
 ## I just deployed this blog using GitHub Pages and Jekyll
 
 It works! It was actually pretty smooth. Even using a custom domain was

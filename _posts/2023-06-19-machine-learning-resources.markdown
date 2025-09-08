@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Useful guides I've been working with"
+date: 2023-06-19 12:00:00 -0000
+---
+
 ## Useful guides I've been working with
 
 It's been a while again! ;)

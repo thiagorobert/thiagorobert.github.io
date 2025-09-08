@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Solutions to questions from Cracking the Coding Interview"
+date: 2022-01-01 12:00:00 -0000
+---
+
 ## Solutions to questions from Cracking the Coding Interview 
 
 I purchased [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)

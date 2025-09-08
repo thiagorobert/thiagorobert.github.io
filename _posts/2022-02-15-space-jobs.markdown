@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Aggregator of job postings in the Space industry"
+date: 2022-02-15 12:00:00 -0000
+---
+
 ## Aggregator of job postings in the Space industry
 
 TIL about Rocket Crew (<https://rocketcrew.space/>), which is an aggregator of

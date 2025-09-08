@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Dockerfile for gRPC/REST server"
+date: 2022-01-05 12:00:00 -0000
+---
+
 ## Dockerfile for gRPC/REST server
 
 I created a Dockerfile for [yesterday's](/2022/01/04/grpc-example.html)

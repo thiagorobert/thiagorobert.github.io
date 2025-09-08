@@ -1,3 +1,9 @@
+---
+layout: post
+title: "A reference guide to modern space activities"
+date: 2022-03-14 12:00:00 -0000
+---
+
 ## A reference guide to modern space activities
 
 I haven't been posting regularly, but today is my birthday so I had to post *something*!

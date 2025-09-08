@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Diving back into ML"
+date: 2025-08-11 12:00:00 -0000
+---
+
 ## Diving back into ML
 
 After talking to a good friend about the company he just started in the AI/ML space, I decided to put some time into the project below. It has been a fun way to tie together things I learned (and documented in this blog) over the course of the last few years, and a bunch of the new ML tools I have been hearing about or playing with informally in the last 6 months. 

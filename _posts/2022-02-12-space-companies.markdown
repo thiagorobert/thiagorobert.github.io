@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Some of the players in the Space Industry"
+date: 2022-02-12 12:00:00 -0000
+---
+
 ## Some of the players in the Space Industry
 
 This is a non-exhaustive list of players in the Space Industry (companies, agencies, etc).

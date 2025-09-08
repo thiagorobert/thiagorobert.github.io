@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Creating music with code"
+date: 2022-02-01 12:00:00 -0000
+---
+
 ## Creating music with code
 
 [Sonic Pi](https://sonic-pi.net/) is a code-based music creation and performance tool. I discovered it randomly, while browsing music-related apps available in Ubuntu Software. It was immediately appealing to me, since it gave me an outlet to be musically creative using skills I'm comfortable with. I probably won't be ditching my software job to become a musician any time soon, but it's really fun to spend time coding a song.

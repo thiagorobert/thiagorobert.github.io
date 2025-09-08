@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Removing space junk from Earth's orbit"
+date: 2022-02-09 12:00:00 -0000
+---
+
 ## Removing space junk from Earth's orbit
 
 One of the reasons why I'm excited about LeoLabs is the fact I firmly believe we
