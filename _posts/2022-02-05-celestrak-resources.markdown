@@ -8,7 +8,7 @@ date: 2022-02-05 12:00:00 -0000
 
 [CelesTrak](https://celestrak.com/) has been an immensely useful resource as I
 learn more about Astrodynamics and satellite tracking. Here's a few links from
-that site worth worth noting:
+that site worth noting:
 
 *   [recent TLE data](https://celestrak.com/pub/TLE/catalog.txt) for 23,837 objects (at this time);
 *   [satcat data](https://celestrak.com/pub/satcat.txt) for 51,511 objects (at this time);

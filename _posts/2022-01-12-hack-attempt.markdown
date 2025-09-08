@@ -9,7 +9,7 @@ date: 2022-01-12 12:00:00 -0000
 Yesterday I checked the bash history for an open [web terminal](http://github.com/yudai/gotty)
 I left behind in one of the Fargate services I set up, and noticed a hack attempt.
 Below you'll find the set of commands the attacker used. Typos and the constant
-use of `clear` makes me think this isn't a pro, but it's still interseting to
+use of `clear` makes me think this isn't a pro, but it's still interesting to
 see what he/she attempted.
  
 ```
@@ -127,9 +127,9 @@ see what he/she attempted.
   142  history
 ```
 
-I don't recomment visiting these URLs, or trying these commands on your system.
+I don't recommend visiting these URLs, or trying these commands on your system.
 However, <https://github.com/MHProDev/MHDDoS> is safe. It's a DDOS Attack script
-implemented in Python. The attaker was able to install it, and used it to DDOS
+implemented in Python. The attacker was able to install it, and used it to DDOS
 `https://host.applelife.ru/`.
 
 After noticing it, I removed the configuration that enables the web terminal and

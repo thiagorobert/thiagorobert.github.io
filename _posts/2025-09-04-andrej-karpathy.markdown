@@ -6,7 +6,7 @@ date: 2025-09-04 12:00:00 -0000
 
 ## The GOAT of ML
 
-In my [last post](https://blog.thiago.pub/2025/08/11/a-new-adventure.html) I mentioned [Zero to Hero](https://karpathy.ai/zero-to-hero.html) by Andrej Karpathy. I just watched [Deep Dive into LLMs](https://www.youtube.com/watch?v=7xTGNNLPyMI) by him, where he does an excellent job of describing the three stages of model training: pre-training, post-training supervised fine-tuning, and post-training reinforcement learning.
+In my [last post](/2025/08/11/a-new-adventure.html) I mentioned [Zero to Hero](https://karpathy.ai/zero-to-hero.html) by Andrej Karpathy. I just watched [Deep Dive into LLMs](https://www.youtube.com/watch?v=7xTGNNLPyMI) by him, where he does an excellent job of describing the three stages of model training: pre-training, post-training supervised fine-tuning, and post-training reinforcement learning.
 
 I won't try to explain the contents, you should just go and watch the video. It's highly recommended! Here's a copy of the image Karpathy created using [Excalidraw](https://excalidraw.com/) (my favorite diagramming tool for a while now) during the video.
 

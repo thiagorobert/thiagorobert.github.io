@@ -6,7 +6,7 @@ date: 2022-01-25 12:00:00 -0000
 
 ## Visualizing different types of orbits
 
-I spent more time improving the [TLE tool I built](api.thiago.pub:8080/), and used
+I spent more time improving the [TLE tool I built](http://api.thiago.pub:8080/), and used
 it to learn more about [Geocentric orbits](https://en.wikipedia.org/wiki/Geocentric_orbit).
 I basically plugged in TLEs from [CelesTrack](https://celestrak.com/) into the
 tool to generate images below. I also found this amazing SVG on Wikipedia, which

@@ -7,7 +7,7 @@ date: 2022-01-07 12:00:00 -0000
 ## Presentation about Serverless and GCP
 
 Today I'm skiing at [Palisades Tahoe](https://www.palisadestahoe.com/)!
-So I'll cheat and simply publish the most recent revision of a presentatin
+So I'll cheat and simply publish the most recent revision of a presentation
 I've been rehashing since 2010. It's really relevant since
 [yesterday](/2022/01/06/fargate.html) I mentioned
 Serverless and talked a bit about GCP's offerings in that space.

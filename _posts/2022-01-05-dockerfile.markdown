@@ -11,7 +11,7 @@ gRPC/REST server. The Dockerfile and a few helper scripts to build/run the image
 are now available at <https://github.com/thiagorobert/grpc-example>.
 
 It uses `ubuntu:20.04` as the base image. I'll probably upgrade to something
-more recent in the future ([list of availalbe Ubuntu images](https://hub.docker.com/_/ubuntu)).
+more recent in the future ([list of available Ubuntu images](https://hub.docker.com/_/ubuntu)).
 The contents of the Dockerfile are embedded below, and here's a breakdown
 of what it does:
 

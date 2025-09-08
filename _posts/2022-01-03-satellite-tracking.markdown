@@ -27,7 +27,7 @@ is a really good resource, I've been studying that code in the last few weeks.
 
 The satellite data used by Stellarium's satellite plugin is from [CelesTrak](http://celestrak.com),
 the OG of satellite tracking, led by [T.S. Kelso](https://twitter.com/TSKelso).
-The site has been up and running as CelesTrack [since March 1998](https://celestrak.com/brief-history.php)
+The site has been up and running as CelesTrak [since March 1998](https://celestrak.com/brief-history.php)
 and provides current and historical "two-line element set" ([TLE](https://celestrak.com/NORAD/elements/))
 data for most satellites in the Satellite Catalog ([SATCAT](https://celestrak.com/satcat/search.php)).
 It also provides a really cool [visualization](https://celestrak.com/cesium/orbit-viz.php?tle=/pub/TLE/catalog.txt&satcat=/pub/satcat.txt)

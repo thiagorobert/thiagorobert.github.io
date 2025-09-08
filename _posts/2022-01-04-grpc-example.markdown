@@ -6,7 +6,7 @@ date: 2022-01-04 12:00:00 -0000
 
 ## gRPC server with REST interface
 
-As I way to brush up on modern Web API technologies, I took a stab at
+As a way to brush up on modern Web API technologies, I took a stab at
 setting up a Python gRPC server with a Go proxy providing a REST API. These
 are technologies I looked into and used before, but nothing like starting
 from scratch to really learn the details.

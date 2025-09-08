@@ -21,7 +21,7 @@ Python wrapper on top of Orekit named [`orbdetpy`](https://github.com/ut-astria/
 <a id="corridor" />
 As I was looking at Orekit's examples, I found one that calculates the track
 corridor for a satellite based on a TLE. Image below was generated using the
-mple code](https://gitlab.orekit.org/orekit-labs/python-wrapper/-/blob/master/examples/Track_Corridor.ipynb),
+[example code](https://gitlab.orekit.org/orekit-labs/python-wrapper/-/blob/master/examples/Track_Corridor.ipynb),
 and the TLE I retrieved from SpaceTrack a [while back](/2022/01/17/two-line-element-set.html).
 
 <p align="center"> 
