@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teaching my daughter how to ski"
+title: "Sienna Skiing"
 date: 2022-02-03 12:00:00 -0000
 ---
 

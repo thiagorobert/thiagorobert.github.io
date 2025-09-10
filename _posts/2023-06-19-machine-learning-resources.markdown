@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Useful guides I've been working with"
+title: "Machine Learning Resources"
 date: 2023-06-19 12:00:00 -0000
 ---
 

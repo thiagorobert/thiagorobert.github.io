@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bash history of a hack attempt in one of my Fargate services"
+title: "Hack Attempt"
 date: 2022-01-12 12:00:00 -0000
 ---
 

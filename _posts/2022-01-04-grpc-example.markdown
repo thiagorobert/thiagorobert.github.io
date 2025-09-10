@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "gRPC server with REST interface"
+title: "gRPC Example"
 date: 2022-01-04 12:00:00 -0000
 ---
 

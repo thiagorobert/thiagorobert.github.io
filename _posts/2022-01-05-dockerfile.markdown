@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dockerfile for gRPC/REST server"
+title: "Dockerfile"
 date: 2022-01-05 12:00:00 -0000
 ---
 

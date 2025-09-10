@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Enabling gRPC health checking"
+title: "Health Checking"
 date: 2022-01-14 12:00:00 -0000
 ---
 

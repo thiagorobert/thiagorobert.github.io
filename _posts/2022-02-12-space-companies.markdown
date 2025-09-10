@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some of the players in the Space Industry"
+title: "Space Companies"
 date: 2022-02-12 12:00:00 -0000
 ---
 

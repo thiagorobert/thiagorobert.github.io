@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First version of my Space-related API"
+title: "Space API"
 date: 2022-01-19 12:00:00 -0000
 ---
 

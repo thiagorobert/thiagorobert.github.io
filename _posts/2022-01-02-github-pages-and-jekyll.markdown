@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I just deployed this blog using GitHub Pages and Jekyll"
+title: "GitHub Pages And Jekyll"
 date: 2022-01-02 12:00:00 -0000
 ---
 

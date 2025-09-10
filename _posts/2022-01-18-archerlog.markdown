@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My other side project"
+title: "Archerlog"
 date: 2022-01-18 12:00:00 -0000
 ---
 

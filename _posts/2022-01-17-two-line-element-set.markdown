@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning more about TLEs"
+title: "Two Line Element Set"
 date: 2022-01-17 12:00:00 -0000
 ---
 

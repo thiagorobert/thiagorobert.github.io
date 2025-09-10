@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sites that provide satellite tracking and related features"
+title: "Satellite Tracking Sites"
 date: 2022-02-10 12:00:00 -0000
 ---
 

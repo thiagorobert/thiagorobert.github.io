@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Diving back into ML"
+title: "A New Adventure"
 date: 2025-08-11 12:00:00 -0000
 ---
 

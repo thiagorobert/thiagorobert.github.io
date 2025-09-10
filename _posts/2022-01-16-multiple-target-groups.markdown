@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Associating multiple target groups with your Fargate service"
+title: "Multiple Target Groups"
 date: 2022-01-16 12:00:00 -0000
 ---
 

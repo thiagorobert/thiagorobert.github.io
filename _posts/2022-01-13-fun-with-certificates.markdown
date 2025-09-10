@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Running gRPC server and REST proxy with TLS"
+title: "Fun With Certificates"
 date: 2022-01-13 12:00:00 -0000
 ---
 

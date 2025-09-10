@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning more about CDMs"
+title: "Conjunction Data Message"
 date: 2022-01-26 12:00:00 -0000
 ---
 

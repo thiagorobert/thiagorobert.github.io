@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Presentation about Serverless and GCP"
+title: "Serverless"
 date: 2022-01-07 12:00:00 -0000
 ---
 

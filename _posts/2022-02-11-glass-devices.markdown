@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I found 3 of my Glass devices today"
+title: "Glass Devices"
 date: 2022-02-11 12:00:00 -0000
 ---
 

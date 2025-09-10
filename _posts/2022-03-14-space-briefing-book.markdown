@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A reference guide to modern space activities"
+title: "Space Briefing Book"
 date: 2022-03-14 12:00:00 -0000
 ---
 

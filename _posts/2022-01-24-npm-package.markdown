@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "space-client-js is now a public NPM package"
+title: "NPM Package"
 date: 2022-01-24 12:00:00 -0000
 ---
 

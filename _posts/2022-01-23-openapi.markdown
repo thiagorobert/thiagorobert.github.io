@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automatically generating OpenApi specification and Javascript client"
+title: "OpenAPI"
 date: 2022-01-23 12:00:00 -0000
 ---
 

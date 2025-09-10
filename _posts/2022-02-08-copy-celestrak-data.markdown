@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Periodically copying data from Celestrak"
+title: "Copy Celestrak Data"
 date: 2022-02-08 12:00:00 -0000
 ---
 

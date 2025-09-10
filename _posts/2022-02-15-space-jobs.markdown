@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aggregator of job postings in the Space industry"
+title: "Space Jobs"
 date: 2022-02-15 12:00:00 -0000
 ---
 

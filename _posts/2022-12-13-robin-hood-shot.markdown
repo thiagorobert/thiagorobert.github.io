@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My first Robin Hood shot"
+title: "Robin Hood Shot"
 date: 2022-12-13 12:00:00 -0000
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Expose the gRPC service at api.thiago.pub:8080"
+title: "Expose gRPC"
 date: 2022-01-15 12:00:00 -0000
 ---
 

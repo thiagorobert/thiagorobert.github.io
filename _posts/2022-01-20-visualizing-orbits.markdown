@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Orbit visualization with Dash"
+title: "Visualizing Orbits"
 date: 2022-01-20 12:00:00 -0000
 ---
 

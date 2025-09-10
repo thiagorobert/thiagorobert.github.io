@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visualizing different types of orbits"
+title: "Orbits"
 date: 2022-01-25 12:00:00 -0000
 ---
 

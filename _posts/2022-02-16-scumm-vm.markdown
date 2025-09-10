@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Play classics adventure games on your favorite platform"
+title: "ScummVM"
 date: 2022-02-16 12:00:00 -0000
 ---
 

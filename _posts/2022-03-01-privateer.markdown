@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A new player in the Space Situational Awareness business"
+title: "Privateer"
 date: 2022-03-01 12:00:00 -0000
 ---
 

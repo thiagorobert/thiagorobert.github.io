@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "solitAIre - a fully functioning Solitaire game implemented using 30 prompts"
+title: "AI Solitaire"
 date: 2025-03-02 12:00:00 -0000
 ---
 

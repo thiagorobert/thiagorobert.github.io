@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Watch satellites being deployed to orbit"
+title: "Satellite Deployment Videos"
 date: 2022-02-24 12:00:00 -0000
 ---
 

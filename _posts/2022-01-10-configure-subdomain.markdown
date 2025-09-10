@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Making the REST interface available at api.thiago.pub"
+title: "Configure Subdomain"
 date: 2022-01-10 12:00:00 -0000
 ---
 

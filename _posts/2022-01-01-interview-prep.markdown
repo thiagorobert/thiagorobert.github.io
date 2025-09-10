@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solutions to questions from Cracking the Coding Interview"
+title: "Interview Prep"
 date: 2022-01-01 12:00:00 -0000
 ---
 
