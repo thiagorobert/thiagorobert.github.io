@@ -1,4 +1,4 @@
-# Thiago's Space Blog code
+# Thiago's Space & AI Blog code
 
 ## Background
 

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is a Jekyll-based blog hosted on GitHub Pages, focused on space industry and software engineering topics. The blog uses the `jekyll-theme-hacker` theme and includes automated comment functionality via utterances.
+This is a Jekyll-based blog hosted on GitHub Pages, focused on software engineering, LLM and AI tooling, and the space industry it started out covering. The blog uses the `jekyll-theme-hacker` theme and includes automated comment functionality via utterances.
 
 ## Development Commands
 
